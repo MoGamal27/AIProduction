@@ -1,0 +1,67 @@
+[
+  {
+    "Type": "Apartment",
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "Area": 165,
+    "Furnished": "No",
+    "Level": "1",
+    "Compound": "Unknown",
+    "Payment_Option": "Cash",
+    "Delivery_Date": "Ready to move",
+    "Delivery_Term": "Finished",
+    "City": "Nasr City"
+  },
+  {
+    "Type": "Villa",
+    "Bedrooms": 4,
+    "Bathrooms": 3,
+    "Area": 300,
+    "Furnished": "Yes",
+    "Level": "Ground",
+    "Compound": "Palm Hills",
+    "Payment_Option": "Installment",
+    "Delivery_Date": "2024",
+    "Delivery_Term": "Finished",
+    "City": "New Cairo"
+  },
+  {
+    "Type": "Duplex",
+    "Bedrooms": 5,
+    "Bathrooms": 4,
+    "Area": 400,
+    "Furnished": "No",
+    "Level": "7",
+    "Compound": "Eastown",
+    "Payment_Option": "Cash or Installment",
+    "Delivery_Date": "Ready to move",
+    "Delivery_Term": "Semi Finished",
+    "City": "Sheikh Zayed"
+  },
+  {
+    "Type": "Studio",
+    "Bedrooms": 1,
+    "Bathrooms": 1,
+    "Area": 50,
+    "Furnished": "Yes",
+    "Level": "3",
+    "Compound": "Unknown",
+    "Payment_Option": "Cash",
+    "Delivery_Date": "Ready to move",
+    "Delivery_Term": "Finished",
+    "City": "New Capital City"
+  },
+  {
+    "Type": "Penthouse",
+    "Bedrooms": 4,
+    "Bathrooms": 3,
+    "Area": 250,
+    "Furnished": "No",
+    "Level": "10+",
+    "Compound": "Maadi V",
+    "Payment_Option": "Installment",
+    "Delivery_Date": "2025",
+    "Delivery_Term": "Core & Shell",
+    "City": "Maadi"
+  }
+]
